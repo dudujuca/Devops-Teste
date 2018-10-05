@@ -2,3 +2,5 @@
 ciclo de vida do aplicativo, da fase de
 desenvolvimento e testes à fase de implantação e
 operações, e desenvolvem várias qualificações.
+
+Nome: Diego Souza da Silva RA 1701633
