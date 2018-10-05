@@ -2,3 +2,6 @@
 de software para mostrar que ele possui alguns conjuntos de comportamentos especificados.
 Um conjunto de testes geralmente contém instruções detalhadas ou metas para cada coleção
 de casos de teste e informações sobre a configuração do sistema a ser usada durante o teste. 
+
+
+Eduardo Juca  RA 1701923
