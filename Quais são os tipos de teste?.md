@@ -15,3 +15,7 @@ Um conjunto de testes executável funciona em um nível suficientemente detalhad
 Subroutine Test
 
 Um conjunto de testes para uma sub-rotina de teste de primalidade pode consistir em uma lista de números e sua primalidade (primárias ou compostas), juntamente com uma sub-rotina de testes. A sub-rotina de teste forneceria cada número da lista para o testador de primalidade e verificar se o resultado de cada teste está correto.
+
+
+
+Eduardo Juca  RA 1701923
