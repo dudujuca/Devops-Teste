@@ -8,3 +8,6 @@ para produzir a cobertura desejada do software que está sendo testado. Casos de
 teste formalmente definidos permitem que os mesmos testes sejam executados
 repetidamente em versões sucessivas do software, permitindo testes de regressão
 efetivos e consistentes.
+
+
+Eduardo Juca  RA 1701923
