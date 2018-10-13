@@ -7,3 +7,6 @@ Testes Automatizados de componentes
 Testes automatizados unitários.
 
 A relação da pirâmide de teste com o custo do projeto é devido o volume de testes diminuir drasticamente, da mesma forma como reduz-se a incidência de bugs. Com a evolução desse modelo, os ciclos de desenvolvimento tornam-se muito mais rápidos, podendo até mesmo entregar pequenas atualizações diárias ou semanais.
+
+RAFAEL BURALHO COSTA
+1520166
