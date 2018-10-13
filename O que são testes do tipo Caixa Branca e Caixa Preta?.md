@@ -10,3 +10,6 @@ Utilizar números negativos em campos tipo valor a pagar;
 Botões que não executam as ações devidas;
 Enfim, todo tipo de falha funcional, ou seja, falhas que contrariam os requisitos da aplicação.
 Há que se destacar, contudo, que existe um elemento comum aos dois tipos de teste. Tanto no teste de caixa branca quanto no teste de caixa preta, o analista não sabe qual será o comportamento da aplicação ou do alvo de teste em uma determinada situação. A imprevisibilidade de resultados é comum aos dois casos.
+
+RAFAEL BURALHO COSTA
+1520166
